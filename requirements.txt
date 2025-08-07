@@ -1,0 +1,22 @@
+# Web framework and server
+fastapi
+uvicorn[standard]
+
+# Configuration and data validation
+pydantic
+pydantic-settings
+
+# AI Model Interaction
+openai
+httpx
+h2
+
+# Document and Image Processing
+PyMuPDF
+Pillow
+opencv-python
+numpy
+python-magic 
+
+# For structured JSON logging
+python-json-logger
